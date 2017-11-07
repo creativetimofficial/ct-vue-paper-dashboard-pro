@@ -1,5 +1,4 @@
-# [Vue Paper Dashboard PRO](https://www.creative-tim.com/product/vue-paper-dashboard-pro)
-[![version][version-badge]][CHANGELOG]
+# [Vue Paper Dashboard PRO](https://www.creative-tim.com/product/vue-paper-dashboard-pro) [![version][version-badge]][CHANGELOG]
 
 ![alt text](https://s3.amazonaws.com/creativetim_bucket/products/63/thumb/opt_pkp_vue_thumbnail.jpg)
 
@@ -29,7 +28,7 @@ You can easily use them together, or pick between them depending on the project 
 
 Quick start options:
 
-+ [Download from Creative Tim](https://www.creative-tim.com/product/light-bootstrap-dashboard-pro).
++ [Download from Creative Tim](https://www.creative-tim.com/product/vue-paper-dashboard-pro).
 + Make sure you have [Node js](https://nodejs.org/en/) installed
 + Go to the downloaded folder and open a terminal
 + Type `npm install` or `yarn install` if you use [yarn](https://yarnpkg.com/en/)
