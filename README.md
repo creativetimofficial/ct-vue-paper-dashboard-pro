@@ -149,6 +149,8 @@ Within the download you'll find the following directories and files:
 ```
 ## Useful Links
 
+Documentation: https://demos.creative-tim.com/vue-paper-dashboard-pro/documentation
+
 More products from Creative Tim: <https://www.creative-tim.com/bootstrap-themes>
 
 Tutorials: <https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w>
