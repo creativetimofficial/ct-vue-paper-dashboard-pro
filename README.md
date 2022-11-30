@@ -1,19 +1,19 @@
-# [Vue Paper Dashboard PRO](https://www.creative-tim.com/product/vue-paper-dashboard-pro) [![version][version-badge]][CHANGELOG]
+# [Vue Paper Dashboard PRO](https://www.creative-tim.com/product/vue-paper-dashboard-pro) [![version][version-badge]][changelog]
 
-![alt text](https://s3.amazonaws.com/creativetim_bucket/products/63/thumb/opt_pkp_vue_thumbnail.jpg)
+![alt text](https://s3.amazonaws.com/creativetim_bucket/products/63/original/opt_pkp_vue_thumbnail.jpg)
 
-**[Vue Paper Dashboard PRO](https://www.creative-tim.com/product/vue-paper-dashboard-pro)** is a beautiful resource built over Bootstrap and Vue. 
+**[Vue Paper Dashboard PRO](https://www.creative-tim.com/product/vue-paper-dashboard-pro)** is a beautiful resource built over Bootstrap and Vue.
 It will help you get started developing dashboards in no time.
 
 Vue Paper Dashboard Pro is the Vue.js ported version of the [Original Paper Dashboard Pro](https://www.creative-tim.com/product/paper-dashboard-pro).
 Using the Dashboard is pretty simple but requires basic knowledge of Javascript, [Vue](https://vuejs.org/v2/guide/) and [Vue-Router](https://router.vuejs.org/en/).
-Vue Paper Dashboard was coded by [Cristi Jora](https://github.com/cristijora) and the design was made by [Creative Tim](https://www.creative-tim.com/). 
-It combines soft colors with beautiful typography and spacious cards and graphics. 
+Vue Paper Dashboard was coded by [Cristi Jora](https://github.com/cristijora) and the design was made by [Creative Tim](https://www.creative-tim.com/).
+It combines soft colors with beautiful typography and spacious cards and graphics.
 
-It is a powerful tool, but it is light and easy to use. 
+It is a powerful tool, but it is light and easy to use.
 It has enough features to allow you to get the job done, but it is not crowded to the point where you can't find the files for a specific plugin.
 
-We like consistency and design that blends into its purpose. 
+We like consistency and design that blends into its purpose.
 Vue Paper Dashboard PRO is a perfect example of our most thoughtful work. It combines Vue.js components and plugins, while looking like everything fits together.
 For an easy start or inspiration for you project, we have also create a set of example pages, like the user settings or usage graphics.
 
@@ -22,27 +22,28 @@ You can easily use them together, or pick between them depending on the project 
 
 ## Links:
 
-+ [Live Preview](https://cristijora.github.io/paper-dashboard-pro/#/admin/overview)
+- [Live Preview](https://cristijora.github.io/paper-dashboard-pro/#/admin/overview)
 
 ## Quick Start:
 
 Quick start options:
 
-+ [Download from Creative Tim](https://www.creative-tim.com/product/vue-paper-dashboard-pro).
-+ Make sure you have [Node js](https://nodejs.org/en/) installed
-+ Go to the downloaded folder and open a terminal
-+ Type `npm install` or `yarn install` if you use [yarn](https://yarnpkg.com/en/)
-+ Type `npm run dev` to start a development server
+- [Download from Creative Tim](https://www.creative-tim.com/product/vue-paper-dashboard-pro).
+- Make sure you have [Node js](https://nodejs.org/en/) installed
+- Go to the downloaded folder and open a terminal
+- Type `npm install` or `yarn install` if you use [yarn](https://yarnpkg.com/en/)
+- Type `npm run dev` to start a development server
 
 The repo uses [vue-cli](https://github.com/vuejs/vue-cli) scaffolding which takes care of the development setup with webpack and all the necessary modern tools to make web development faster and easier.
 
 Other Products:
 
-+ [Download FREE Vue Version](https://www.creative-tim.com/product/vue-paper-dashboard).
+- [Download FREE Vue Version](https://www.creative-tim.com/product/vue-paper-dashboard).
 
 ### What's included
 
 Within the download you'll find the following directories and files:
+
 ```
 |-- src
     |   |-- App.vue
@@ -147,6 +148,7 @@ Within the download you'll find the following directories and files:
     |   |-- routes
     |       |-- routes.js
 ```
+
 ## Useful Links
 
 Documentation: https://demos.creative-tim.com/vue-paper-dashboard-pro/documentation
@@ -171,5 +173,5 @@ Google+: <https://plus.google.com/+CreativetimPage>
 
 Instagram: <https://instagram.com/creativetimofficial>
 
-[CHANGELOG]: ./CHANGELOG.md
-[version-badge]: https://img.shields.io/badge/version-2.4.0-blue.svg
+[changelog]: ./CHANGELOG.md
+[version-badge]: https://img.shields.io/badge/version-2.4.1-blue.svg
