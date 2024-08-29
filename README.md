@@ -174,4 +174,4 @@ Google+: <https://plus.google.com/+CreativetimPage>
 Instagram: <https://instagram.com/creativetimofficial>
 
 [changelog]: ./CHANGELOG.md
-[version-badge]: https://img.shields.io/badge/version-2.4.1-blue.svg
+[version-badge]: https://img.shields.io/badge/version-2.4.2-blue.svg
